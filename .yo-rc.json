@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "jhipsterThirdSampleApplication",
+    "packageName": "org.agentix.application",
+    "packageFolder": "org/agentix/application",
+    "serverPort": 8081,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "YzJmMTYyYzVjMDkyODUzOWUyZmY0NDZiZjM1N2MzYzY1Y2YwZTRhNTQ1ODQ2N2NhYTZlYjBiMDExNDhmNmE1ODk3MDZkZDFkOTZkZDk0MDg5ZWJmZTNlYzFjZmJiOTI1YzcwNzVmNGM4ZWRjZDdmYzEzODk4ZDVmYjU1ODNhNTM=",
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "agentix",
+  "repository-name": "jhipster-third-sample-application"
+}
